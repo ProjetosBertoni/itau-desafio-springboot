@@ -16,7 +16,6 @@ A proposta consiste em desenvolver uma **API REST** capaz de:
 - Java 17+
 - Spring Boot 3.4.4
 - Maven
-- JUnit (testes)
 - Postman / Insomnia (testes de API)
 
 ## 🔧 Funcionalidades da API
