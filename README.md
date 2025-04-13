@@ -73,7 +73,4 @@ Esse projeto me permitiu:
 - Trabalhar com dados em memória de forma performática
 - Aplicar testes, validações e tratamento de erros robustos
 
-## 👨‍💻 Autor
 
-**Felipe Bertoni**  
-[LinkedIn](www.linkedin.com/in/felipesbc) 
